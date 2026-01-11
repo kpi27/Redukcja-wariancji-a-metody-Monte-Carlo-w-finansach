@@ -148,3 +148,4 @@ plt.text(xlim_hi - pad_x, ylim_lo + pad_y, f'Korelacja $\\rho \\approx {rho:.4f}
 
 plt.tight_layout()
 plt.show()
+
